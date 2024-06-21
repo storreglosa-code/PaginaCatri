@@ -1,0 +1,26 @@
+body{
+	background-color: #0000009c
+}
+
+ol{
+	font-size: 30px
+}
+
+li{color: lightblue;
+	margin: 25px;
+}
+
+
+.volver:link, .volver:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  border: 2px dotted white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.volver:hover, .volver:active {
+  background-color: red;
+}
