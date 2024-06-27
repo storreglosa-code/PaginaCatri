@@ -1,3 +1,2 @@
-$(document).ready(funcion(){
-$(#vwlogo).slideDown(3000);
-)};
+$(document).ready(function(){
+});
